@@ -3,7 +3,8 @@ Interactive sales analysis dashboard built with Excel and Tableau,
 analyzing 4 years of retail transaction data (10,000+ records).
 
 # Preview
-[Dashboard Screenshot](Screenshot%202026-07-16%20030536.png)
+(<img width="1600" height="831" alt="Screenshot 2026-07-16 030536" src="https://github.com/user-attachments/assets/88c9aa22-068e-4382-a5be-e31d8603a703" />
+)
 
 # Live Dashboard
 [View interactive version on Tableau Public](your-tableau-public-link-here)
